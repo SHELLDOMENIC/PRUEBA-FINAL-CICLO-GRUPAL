@@ -9,6 +9,6 @@ package espoch.edu.ec.practicafinciclo;
 public class PracticaFinCiclo {
 
     public static void main(String[] args) {
-        System.out.println("HOOLA GRUPO");
+        
     }
 }
