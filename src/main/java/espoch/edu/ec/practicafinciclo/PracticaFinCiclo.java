@@ -2,6 +2,8 @@
 
 package espoch.edu.ec.practicafinciclo;
 
+import espoch.edu.ec.practicafinciclo.Vista.Vista;
+
 /**
  *
  * @author and_j
@@ -9,6 +11,7 @@ package espoch.edu.ec.practicafinciclo;
 public class PracticaFinCiclo {
 
     public static void main(String[] args) {
-        System.out.println("HOOLA GRUPO");
+        Vista objVista = new Vista();
+        objVista.setVissible(true);
     }
 }
