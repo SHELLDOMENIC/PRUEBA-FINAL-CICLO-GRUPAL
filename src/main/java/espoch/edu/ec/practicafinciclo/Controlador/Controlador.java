@@ -37,7 +37,7 @@ public class Controlador {
     }
 
     public void Salir() {
-        vista.mostrarMensaje("Saliendo del sistema");
+        vista.mostrarMensaje("Salida");
         System.exit(00);
     }
 }

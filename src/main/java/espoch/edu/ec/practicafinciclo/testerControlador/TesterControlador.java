@@ -10,4 +10,7 @@ package espoch.edu.ec.practicafinciclo.testerControlador;
  */
 public class TesterControlador {
     
+    
+    
+    
 }
